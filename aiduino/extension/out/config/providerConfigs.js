@@ -185,7 +185,7 @@ const PROVIDER_CONFIGS = {
         icon: '💎',
         color: '#4285F4',
         keyFile: '.aiduino-gemini-api-key',
-        keyPrefix: 'AIza',
+        keyPrefix: 'AQ.',
         keyMinLength: 20,
         hostname: 'generativelanguage.googleapis.com',
         apiKeyUrl: 'https://aistudio.google.com/apikey',

@@ -10,7 +10,7 @@
 /**
  * Validates API key format and requirements
  * @param {string} value - The API key to validate
- * @param {string} keyPrefix - Required prefix (e.g., 'sk-ant-', 'sk-', 'AIza')
+ * @param {string} keyPrefix - Required prefix (e.g., 'sk-ant-', 'sk-', 'AQ.')
  * @param {number} minLength - Minimum key length (default: 15)
  * @param {function} t - Translation function
  * @returns {string|null} Error message or null if valid
